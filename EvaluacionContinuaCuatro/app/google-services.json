@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611075075736",
+    "project_id": "rickimorti-d91e8",
+    "storage_bucket": "rickimorti-d91e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611075075736:android:762402d19ae8323e4deaed",
+        "android_client_info": {
+          "package_name": "com.giuliana.evaluacioncontinuacuatro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611075075736-f5hon4rcq88tjaeub886qc37kicqd43s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giuliana.evaluacioncontinuacuatro",
+            "certificate_hash": "ca1ab7d5e01da221e003c12a5ee9d464c660d502"
+          }
+        },
+        {
+          "client_id": "611075075736-ncm3v2qvs2id9210rpm04o9vq37105dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUcbjTwDmYyg6VD8jNhenGZKvpP9YEuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611075075736-ncm3v2qvs2id9210rpm04o9vq37105dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

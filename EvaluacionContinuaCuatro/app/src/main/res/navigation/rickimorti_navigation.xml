@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dota_navigation"
+    app:startDestination="@id/rickiMortiListFragment">
+    <fragment
+        android:id="@+id/rickiMortiListFragment"
+        android:name="com.giuliana.evaluacioncontinuacuatro.view.fragments.RickiMortiListFragment"
+        android:label="fragment_ricki_morti_list"
+        tools:layout="@layout/fragment_ricki_morti_list" >
+        <action
+            android:id="@+id/action_rickiMortiListFragment_to_rickiMortiDetailFragment"
+            app:destination="@id/rickiMortiDetailFragment"
+            app:popUpTo="@id/rickiMortiDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/rickiMortiFavoriteFragment"
+        android:name="com.giuliana.evaluacioncontinuacuatro.view.fragments.RickiMortiFavoriteFragment"
+        android:label="fragment_ricki_morti_favorite"
+        tools:layout="@layout/fragment_ricki_morti_favorite" >
+        <action
+            android:id="@+id/action_rickiMortiFavoriteFragment_to_rickiMortiDetailFragment"
+            app:destination="@id/rickiMortiDetailFragment"
+            app:popUpTo="@id/rickiMortiFavoriteFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/rickiMortiDetailFragment"
+        android:name="com.giuliana.evaluacioncontinuacuatro.view.fragments.RickiMortiDetailFragment"
+        android:label="fragment_ricki_morti_detail"
+        tools:layout="@layout/fragment_ricki_morti_detail" >
+        <argument
+            android:name="results"
+            app:argType="com.giuliana.evaluacioncontinuacuatro.model.Rickimorti" />
+    </fragment>
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.giuliana.evaluacioncontinuacuatro.view.fragments.LogoutFragment"
+        android:label="fragment_logout"
+        tools:layout="@layout/fragment_logout" >
+        <action
+            android:id="@+id/action_logoutFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
+    </fragment>
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.giuliana.evaluacioncontinuacuatro.view.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <fragment
+        android:id="@+id/listFirebaseFragment"
+        android:name="com.giuliana.evaluacioncontinuacuatro.view.fragments.ListFirebaseFragment"
+        android:label="fragment_list_firebase"
+        tools:layout="@layout/fragment_list_firebase" />
+</navigation>

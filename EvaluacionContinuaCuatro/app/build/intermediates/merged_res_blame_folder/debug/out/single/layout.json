@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\fragment_logout.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\fragment_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\fragment_ricki_morti_detail.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\fragment_ricki_morti_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\fragment_ricki_morti_favorite.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\fragment_ricki_morti_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\fragment_list_firebase.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\fragment_list_firebase.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\activity_add.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\item_rickimortilist.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\item_rickimortilist.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:/layout/fragment_list_firebase.xml",
+        "source": "com.giuliana.evaluacioncontinuacuatro.app-main-64:/layout/fragment_list_firebase.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\item_rickimortifavorite.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\item_rickimortifavorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-mergeDebugResources-61:\\layout\\fragment_ricki_morti_list.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.5\\com.giuliana.evaluacioncontinuacuatro.app-main-64:\\layout\\fragment_ricki_morti_list.xml"
+    }
+]
